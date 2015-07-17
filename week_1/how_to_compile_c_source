@@ -1,0 +1,11 @@
+For compile C source in mac, we nned to open terminal and type:
+	gcc <file_name>
+and then type:
+	./a.out
+
+Yeah, of course, we can type like:
+	gcc <file_name>.c -o <compiled_file_name>
+and type:
+	./<compiled_file_name>
+
+But I don't want edit .gitignore file all the time, yeah, I know, I'm so lazy...
