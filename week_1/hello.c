@@ -1,9 +1,17 @@
 #include <stdio.h>
+#include <cs50.h>
+#include <string.h>
 
-// File from Lecture, week 1
-// Prints "Hello, World" on console
+/**
+ * hello.c
+ *
+ * Bagdat Bimaganbetov
+ * bagdat.bimaganbetov@gmail.com
+ *
+ * Prints "Hello, World" on terminal.
+ */
 
-int main(void) {
-	printf("Hello, CS50!\n");
-	return 0;
+int main(void)
+{
+    printf("Hello, World!\n");
 }
